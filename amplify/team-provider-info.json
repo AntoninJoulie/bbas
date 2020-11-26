@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bbaas-dev-94832-authRole",
+      "UnauthRoleArn": "arn:aws:iam::390894103813:role/amplify-bbaas-dev-94832-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::390894103813:role/amplify-bbaas-dev-94832-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-bbaas-dev-94832-deployment",
+      "UnauthRoleName": "amplify-bbaas-dev-94832-unauthRole",
+      "StackName": "amplify-bbaas-dev-94832",
+      "StackId": "arn:aws:cloudformation:eu-west-2:390894103813:stack/amplify-bbaas-dev-94832/2a8f4520-2fc4-11eb-8646-0aaa43c0f06a",
+      "AmplifyAppId": "d2z0z98l4sd6vi"
+    }
+  }
+}
